@@ -7,18 +7,23 @@ do
 
         case $choice in
         "List")
+            echo "Listing all files in current directory..."
             ls;;
         
         "Show")
+            echo "Displaying free disk space available..."
             stuff;;
         
         "Show2")
+            echo "Following current path..."
             stuff;;
 
         "Display")
+            echo "Displaying command history"
             stuff;;
 
         "Backup")
+            echo "Backing up files..."
             stuff;;
 
         "Exit")
@@ -26,6 +31,4 @@ do
             break;;
 
         esac
-
-
 done
