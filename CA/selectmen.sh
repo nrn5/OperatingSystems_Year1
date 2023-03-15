@@ -20,11 +20,12 @@ do
         "Show2")
             echo "Following current path..."
             export PATH
+            echo $PATH
             echo "";;
 
         "Display")
             echo "Displaying command history"
-            $ history
+            echo $history
             echo "";;
 
         "Backup")
