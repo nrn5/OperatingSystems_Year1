@@ -7,7 +7,7 @@ do
 
         case $choice in
         "List")
-            stuff;;
+            ls;;
         
         "Show")
             stuff;;
