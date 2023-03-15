@@ -1,4 +1,5 @@
 PS3="Enter your choice:"
+echo ""
 
 select choice in List Show Show2 Display Backup Exit
 
@@ -8,23 +9,28 @@ do
         case $choice in
         "List")
             echo "Listing all files in current directory..."
-            ls;;
+            ls
+            echo "";;
         
         "Show")
             echo "Displaying free disk space available..."
-            stuff;;
+            df
+            echo "";;
         
         "Show2")
             echo "Following current path..."
-            stuff;;
+            export PATH
+            echo "";;
 
         "Display")
             echo "Displaying command history"
-            stuff;;
+            stuff
+            echo "";;
 
         "Backup")
             echo "Backing up files..."
-            stuff;;
+            stuff
+            echo "";;
 
         "Exit")
             echo "Exiting..."
