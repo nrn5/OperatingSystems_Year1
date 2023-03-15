@@ -24,7 +24,7 @@ do
 
         "Display")
             echo "Displaying command history"
-            stuff
+            $ history
             echo "";;
 
         "Backup")
