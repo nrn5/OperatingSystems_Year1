@@ -60,8 +60,8 @@ FIxMDI7NFo6PbaCCZNhWVtYAQhnG0Stqn034SgqORd0lg4KukrsVx1t6fP8G5vlb
 U5daH5adArh/Lhjw+o+SWFzr94aUlFQ8OpOjvIVj
 =hB2P
 -----END PGP PUBLIC KEY BLOCK-----
-
+ 
 
 ## Lab 6
 
-Results 
+Results [Screenshot](https://github.com/nrn5/OperatingSystems_Year1/blob/main/Lab6/lab6.png)
