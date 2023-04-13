@@ -64,4 +64,4 @@ U5daH5adArh/Lhjw+o+SWFzr94aUlFQ8OpOjvIVj
 
 ## Lab 6
 
-Results [Screenshot](https://github.com/nrn5/OperatingSystems_Year1/blob/main/Lab6/lab6.png)
+Results [Screenshot](https://github.com/nrn5/workspaces/OperatingSystems_Year1/Lab6/lab6.PNG)
