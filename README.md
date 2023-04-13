@@ -6,7 +6,6 @@ The first repository that I will use to learn Git commands.
 
 Results [Screenshot](https://github.com/nrn5/OperatingSystems_Year1/blob/main/Lab1/Lab-1.png)
 
-
 ### Lab 2
 
 -----BEGIN PGP PUBLIC KEY BLOCK-----
@@ -61,3 +60,8 @@ FIxMDI7NFo6PbaCCZNhWVtYAQhnG0Stqn034SgqORd0lg4KukrsVx1t6fP8G5vlb
 U5daH5adArh/Lhjw+o+SWFzr94aUlFQ8OpOjvIVj
 =hB2P
 -----END PGP PUBLIC KEY BLOCK-----
+
+
+## Lab 6
+
+Results 
