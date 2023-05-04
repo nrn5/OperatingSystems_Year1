@@ -62,7 +62,7 @@ U5daH5adArh/Lhjw+o+SWFzr94aUlFQ8OpOjvIVj
 -----END PGP PUBLIC KEY BLOCK-----
  
 ### Lab Week 5
-Results [Lab]
+Results [Lab](https://github.com/nrn5/OperatingSystems_Year1/tree/main/LabWeek5)
 
 ### Lab Week 6
 Results [Lab](https://github.com/nrn5/OperatingSystems_Year1/blob/main/LabWeek6/systemStats.txt/systemStats.txt)
