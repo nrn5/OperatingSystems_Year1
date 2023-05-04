@@ -62,6 +62,6 @@ U5daH5adArh/Lhjw+o+SWFzr94aUlFQ8OpOjvIVj
 -----END PGP PUBLIC KEY BLOCK-----
  
 
-## Lab 6
+### Lab 6
 
 Results [Screenshot](https://github.com/nrn5/OperatingSystems_Year1/blob/main/Lab6/lab6.PNG)
