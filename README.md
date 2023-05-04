@@ -80,4 +80,4 @@ Results [Lab](https://github.com/nrn5/OperatingSystems_Year1/blob/main/LabWeek6/
 
 Results [Screenshot](https://github.com/nrn5/OperatingSystems_Year1/blob/main/Lab6/lab6.PNG)
 
-Results [Screenshot]()
+Results [Screenshot](https://github.com/nrn5/OperatingSystems_Year1/blob/main/Lab6/Lab6-2.png)
