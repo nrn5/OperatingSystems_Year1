@@ -76,7 +76,7 @@ Results [Lab](https://github.com/nrn5/OperatingSystems_Year1/tree/main/LabWeek5)
 ### Lab Week 6
 Results [Lab](https://github.com/nrn5/OperatingSystems_Year1/blob/main/LabWeek6/systemStats.txt/systemStats.txt)
 
-### Lab Week 7
+### Lab Week 6 part 2
 
 Results [Screenshot](https://github.com/nrn5/OperatingSystems_Year1/blob/main/Lab6/lab6.PNG)
 
