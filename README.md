@@ -2,11 +2,11 @@
 The first repository that I will use to learn Git commands.
 
 
-### Lab 1
+### Lab Week 2
 
 Results [Screenshot](https://github.com/nrn5/OperatingSystems_Year1/blob/main/Lab1/Lab-1.png)
 
-### Lab 2
+### Lab Week 3
 
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
@@ -64,6 +64,6 @@ U5daH5adArh/Lhjw+o+SWFzr94aUlFQ8OpOjvIVj
 ### Lab Week 6
 Results [Lab](https://github.com/nrn5/OperatingSystems_Year1/blob/main/LabWeek6/systemStats.txt/systemStats.txt)
 
-### Lab 6
+### Lab Week 7
 
 Results [Screenshot](https://github.com/nrn5/OperatingSystems_Year1/blob/main/Lab6/lab6.PNG)
