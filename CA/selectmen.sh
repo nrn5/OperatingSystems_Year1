@@ -7,7 +7,7 @@ do
     echo "Selected: $choice"
 
         case $choice in
-        "List")
+        "ListFilesNow")
             echo "Listing all files in current directory..."
             ls
             echo "";;
